@@ -8,7 +8,7 @@ A collection of Pandas programs covering the core concepts required for data ana
 
 ## About
 
-This repository documents my journey of learning **Pandas** as part of my Data Analytics roadmap. It contains beginner-to-intermediate examples that demonstrate how to work withnSeries and DataFrames, inspect data, and understand the basic structure and properties of a dataset.
+This repository documents my journey of learning **Pandas** as part of my Data Analytics roadmap. It contains beginner-to-intermediate examples that demonstrate how to work with Series and DataFrames, inspect data, and understand the basic structure and properties of a dataset.
 
 ## Topics Covered
 
