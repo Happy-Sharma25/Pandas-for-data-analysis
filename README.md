@@ -1,4 +1,4 @@
-# NumPy for Data Analysis
+# Pandas for Data Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![NumPy](https://img.shields.io/badge/Pandas-Library-green)
@@ -8,58 +8,53 @@ A collection of Pandas programs covering the core concepts required for data ana
 
 ## About
 
-This repository documents my journey of learning **Pandas** as part of my Data Analytics roadmap. It contains beginner-to-intermediate examples that demonstrate how to work with arrays, perform numerical computations, and manipulate data efficiently.
+This repository documents my journey of learning **Pandas** as part of my Data Analytics roadmap. It contains beginner-to-intermediate examples that demonstrate how to work withnSeries and DataFrames, inspect data, and understand the basic structure and properties of a dataset.
 
 ## Topics Covered
 
-- Introduction to NumPy
-- Creating Arrays
-- Zeros, Ones, and Identity Arrays
-- `arange()` and `linspace()`
-- Indexing and Slicing
-- Modifying Arrays
-- Boolean Indexing & Filtering
-- Array Concatenation
-- Splitting Arrays
-- Broadcasting
-- Fancy Indexing
-- Random Number Generation
-- Sorting Arrays
-- Searching Arrays
-- Unique Values
-- Handling Missing Values (`NaN`)
+- Introduction to Pandas
+- Data Frames
+- Data Selection
+- Data Filtering
+- Adding new column to the data
+- Rename and Drop Columns/Tables
+- Handle missing values
+- String Operations
+- Date Time Functions
+- Group By
+- Merge, Join and Concat
+- Pivot Table
+- Reading Files
 
 ## Repository Structure
 
 ```text
-01_introduction_numpy.py
-02_zeros_and_ones.py
-03_linspace_arange.py
-04_indexing_slicing.py
-05_modify_array.py
-10_boolean_indexing_filtering.py
-11_array_concatenation.py
-12_splitting_array.py
-13_broadcasting.py
-14_fancy_indexing.py
-15_random.py
-16_sorting.py
-17_searching.py
-18_unique.py
-19_handle_missing_value.py
+01_introduction_pandas.py
+02_dataFrame_method.py
+03_data_selection.py
+04_data_filtering.py
+05_adding_columns.py
+06_rename_drop.py
+07_handle_missing_values.py
+08_string_operations.py
+09_date_time_functions.py
+10_group_by.py
+11_merge_join_concat.py
+12_pivot_table.py
+13_reading_files.py
 ```
 
 ## Technologies Used
 
 - Python 3
-- NumPy
+- Pandas
 
 ## Prerequisites
 
-Install NumPy using pip:
+Install pandas using pip:
 
 ```bash
-pip install numpy
+pip install pandas
 ```
 
 ## Run the Programs
@@ -67,24 +62,24 @@ pip install numpy
 Clone the repository:
 
 ```bash
-git clone https://github.com/Happy-Sharma25/numpy-for-data-analysis.git
+git clone https://github.com/Happy-Sharma25/pandas-for-data-analysis.git
 ```
 
 Navigate to the project folder:
 
 ```bash
-cd numpy-for-data-analysis
+cd pandas-for-data-analysis
 ```
 
 Run any Python file:
 
 ```bash
-python 01_introduction_numpy.py
+python 01_introduction_pandas.py
 ```
 
 ## Learning Goal
 
-This repository is part of my preparation for a **Data Analyst** role. My objective is to build a strong foundation in Python libraries used for data analysis before moving on to **Pandas**, **Matplotlib**, **Seaborn**, **SQL**, and **Power BI**.
+This repository is part of my preparation for a **Data Analyst** role. My objective is to build a strong foundation in Python libraries used for data analysis before moving on to **Matplotlib**, **Seaborn**, **SQL**, and **Power BI**.
 
 ## Connect With Me
 
@@ -94,4 +89,4 @@ If you have suggestions or feedback, feel free to connect with me on GitHub.
 
 ## Future Updates
 
-This repository will continue to be updated as I learn more advanced NumPy concepts and best practices for data analysis.
+This repository will continue to be updated as I learn more advanced Pandas concepts and best practices for data analysis.
