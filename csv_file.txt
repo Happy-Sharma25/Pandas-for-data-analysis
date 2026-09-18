@@ -1,0 +1,7 @@
+DATE,Temperature,Speed,Event
+1/7/2026,32,6,Rain
+2/7/2026,35,7,Sunny
+3/7/2026,28,2,Snow
+4/7/2026,24,7,Snow
+5/7/2026,32,4,Rain
+6/7/2026,32,2,Sunny
